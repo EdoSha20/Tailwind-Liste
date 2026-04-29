@@ -40,6 +40,94 @@
         <div>STATUS</div>
       </div>
 
+      <!-- Row -->
+      <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
+
+        <div class="text-sm">3</div>
+
+        <div class="flex items-center gap-3">
+          <img src={besique} class="w-10 h-10 rounded-full object-cover" alt="">
+          <span>Besique Monroe</span>
+        </div>
+
+        <div class="text-gray-600">Administrator</div>
+
+        <div class="text-gray-500">Sep 28, 2022</div>
+
+        <div>
+          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">
+            Active
+          </span>
+        </div>
+
+      </div>
+
+      <!-- Row -->
+      <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
+
+        <div class="text-sm">7</div>
+
+        <div class="flex items-center gap-3">
+          <img src={james} class="w-10 h-10 rounded-full object-cover" alt="">
+          <span>James Cavier</span>
+        </div>
+
+        <div class="text-gray-600">Author</div>
+
+        <div class="text-gray-500">Sep 28, 2022</div>
+
+        <div>
+          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">
+            Active
+          </span>
+        </div>
+
+      </div>
+
+      <!-- Row -->
+      <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
+
+        <div class="text-sm">12</div>
+
+        <div class="flex items-center gap-3">
+          <img src={elvis} class="w-10 h-10 rounded-full object-cover" alt="">
+          <span>Elvis Son</span>
+        </div>
+
+        <div class="text-gray-600">Editor</div>
+
+        <div class="text-gray-500">Sep 28, 2022</div>
+
+        <div>
+          <span class="bg-yellow-100 text-yellow-700 px-3 py-1 rounded-full text-sm font-semibold">
+            Suspended
+          </span>
+        </div>
+
+      </div>
+
+      <!-- Row -->
+      <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
+
+        <div class="text-sm">66</div>
+
+        <div class="flex items-center gap-3">
+          <img src={dana} class="w-10 h-10 rounded-full object-cover" alt="">
+          <span>Dana White</span>
+        </div>
+
+        <div class="text-gray-600">Administrator</div>
+
+        <div class="text-gray-500">Sep 28, 2022</div>
+
+        <div>
+          <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-semibold">
+            Inactive
+          </span>
+        </div>
+
+      </div>
+
     </div>
 
   </div>
