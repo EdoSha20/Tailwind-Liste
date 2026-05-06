@@ -9,29 +9,21 @@
 
   <div class="bg-white w-full max-w-5xl rounded-2xl shadow-lg p-6">
 
-    <!-- Header -->
     <div class="flex justify-between items-center mb-6">
 
       <div>
-        <h1 class="text-2xl font-bold text-gray-800">
-          User Accounts
-        </h1>
-
-        <p class="text-sm text-gray-500">
-          View accounts of registered users
-        </p>
+        <h1 class="text-2xl font-bold text-gray-800"> User Accounts </h1>
+<p class="text-sm text-gray-500"> View accounts of registered users  </p>
       </div>
 
-      <button class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg text-sm font-medium">
-        ↓ CSV
-      </button>
+      <button class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg text-sm font-medium">  ↓ CSV </button>
 
     </div>
 
-    <!-- Table -->
+    
     <div class="rounded-xl overflow-hidden border border-gray-200">
 
-      <!-- Head -->
+      
       <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] bg-blue-600 text-white text-sm font-semibold p-4">
         <div>ID</div>
         <div>FULL NAME</div>
@@ -40,7 +32,7 @@
         <div>STATUS</div>
       </div>
 
-      <!-- Row -->
+      
       <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
 
         <div class="text-sm">3</div>
@@ -55,14 +47,12 @@
         <div class="text-gray-500">Sep 28, 2022</div>
 
         <div>
-          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">
-            Active
-          </span>
+          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold"> Active</span>
         </div>
 
       </div>
 
-      <!-- Row -->
+      
       <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
 
         <div class="text-sm">7</div>
@@ -77,14 +67,12 @@
         <div class="text-gray-500">Sep 28, 2022</div>
 
         <div>
-          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">
-            Active
-          </span>
+          <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-semibold">Active</span>
         </div>
 
       </div>
 
-      <!-- Row -->
+    
       <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
 
         <div class="text-sm">12</div>
@@ -99,14 +87,12 @@
         <div class="text-gray-500">Sep 28, 2022</div>
 
         <div>
-          <span class="bg-yellow-100 text-yellow-700 px-3 py-1 rounded-full text-sm font-semibold">
-            Suspended
-          </span>
+          <span class="bg-yellow-100 text-yellow-700 px-3 py-1 rounded-full text-sm font-semibold">Suspended</span>
         </div>
 
       </div>
 
-      <!-- Row -->
+     
       <div class="grid grid-cols-[58px_1.5fr_1fr_1fr_1fr] items-center p-3 border-t border-gray-100">
 
         <div class="text-sm">66</div>
@@ -121,9 +107,7 @@
         <div class="text-gray-500">Sep 28, 2022</div>
 
         <div>
-          <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-semibold">
-            Inactive
-          </span>
+          <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-semibold"> Inactive</span>
         </div>
 
       </div>
